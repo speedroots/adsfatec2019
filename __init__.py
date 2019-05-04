@@ -7,7 +7,7 @@ Interação Humano Computador(IHC) - Professor Giuliano Araújo Bertoti
 import telepot
 from Estimulus import Estimulus
 
-token = telepot.Bot("750732573:AAFdeaN9Ut9Z-0Uuc-zMboyHjAeMSvE6yyo")
+token = telepot.Bot("seutokenaqui")
 bot = Estimulus("Estimulus")
 
 def RecebeMSG(msg):
